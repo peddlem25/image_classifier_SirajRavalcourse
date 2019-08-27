@@ -1,0 +1,2 @@
+make sure you download docker and set up an account via this link  https://docs.docker.com/docker-for-mac/install/ 
+you may also need to update your dependencies. If so make sure you update your pip install before you begin using the "pip install"
